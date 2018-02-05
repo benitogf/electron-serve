@@ -31,7 +31,6 @@ app.on('ready', () => {
 });
 ```
 
-
 ## API
 
 ### serve(options)
@@ -59,7 +58,7 @@ Custom scheme. For example, `foo` results in your `directory` being available at
 - [electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Context menu for your Electron app
 - [electron-dl](https://github.com/sindresorhus/electron-dl) - Simplified file downloads for your Electron app
 - [electron-unhandled](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections in your Electron app
-
+- [electron-serve-quickstart](https://github.com/benitogf/elq) - Quickstart boilerplate for single-page web app
 
 ## License
 
